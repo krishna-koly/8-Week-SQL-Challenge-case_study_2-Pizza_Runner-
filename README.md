@@ -1,1 +1,1 @@
-# 8-Week-SQL-Challenge-case_study_2-Pizza_Runner-
+# 8-Week-SQL-Challenge-case_study_2_Pizza_Runner
